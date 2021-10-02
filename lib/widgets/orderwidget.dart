@@ -46,6 +46,7 @@ class _OrderWidgetState extends State<OrderWidget> {
                 color: Colors.black45,
                 fontWeight: FontWeight.bold,
               ),
+              
             ),
             subtitle: Text(
               widget.request.address,
